@@ -1,0 +1,4 @@
+PlopCMS-installer
+=================
+
+Install command
