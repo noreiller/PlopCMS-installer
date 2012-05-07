@@ -39,4 +39,3 @@ git submodule update --init --recursive
 cp ./config/ProjectConfiguration.class.php.sample ./config/ProjectConfiguration.class.php
 
 ./symfony plop:install "mysql:host=$db_server;dbname=$db_name" $db_user $db_pwd
-./plugins/sfPlopPlugin/config/build.sh
